@@ -1,0 +1,50 @@
+.about_middle{
+	background: #658a7f;
+    padding:5em 0;
+}
+.about_middle h2{
+	text-align: center;
+    color: #fff;
+    font-size:2.5em;
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 1em;
+}
+.testi_grid:nth-child(2n+1) .testi_grid_blockquote {
+    text-align: right;
+}
+.testi_grid .testi_grid_blockquote {
+    background: none;
+    padding: 0;
+    border-radius: 0;
+}
+.testi_grid blockquote {
+    position: relative;
+    display: block;
+    margin: 0;
+    padding: 30px;
+    border: none;
+    background: #dbdbdb;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding-box;
+    background-clip: padding-box;
+}
+.about_middle-grid1 {
+    margin-bottom: 3em;
+}
+.testi_grid:nth-child(2n+1) {
+    margin-left: 0;
+}
+.testi_grid {
+    padding: 0;
+    width: 48.717948717948715%;
+    margin-left: 2.564102564102564%;
+    display: inline-block;
+    vertical-align: top;
+}
+.testi_grid {
+    overflow: hidden;
+    background: none;
+}

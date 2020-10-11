@@ -1,0 +1,37 @@
+.banner{
+	background:url(../images/user_bg.jpg)no-repeat center top;
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	min-height:650px;
+}
+.banner_info{
+   margin: 10em 0 0 0;
+}
+.banner_info h3{
+   color:#fff;
+   font-family: 'Oswald', sans-serif;
+   font-size:4em;
+   margin-bottom:30px;
+}
+.hvr-shutter-out-horizontal {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    position: relative;
+    background: #658a7f;
+    -webkit-transition-property: color;
+    transition-property: color;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    padding: 12px 40px;
+    border: 2px solid #fff;
+    color: #fff;
+    font-size: 20px;
+}
